@@ -4,4 +4,4 @@
 
 &emsp; Abaixo está um vídeo demonstrando e explicando o funcionamento do somador, caso o vídeo não carregue no player do Youtube, o mesmo está presente na pasta [assets](/assets/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ewJFsDzD6HM?si=NTpVeTNdlLydkq5H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Título do Vídeo](https://img.youtube.com/vi/ewJFsDzD6HM/0.jpg)](https://www.youtube.com/watch?v=ewJFsDzD6HM)
