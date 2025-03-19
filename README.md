@@ -4,4 +4,6 @@
 
 &emsp; Abaixo está um vídeo demonstrando e explicando o funcionamento do somador, caso o vídeo não carregue no player do Youtube, o mesmo está presente na pasta [assets](/assets/)
 
-[![Título do Vídeo](https://img.youtube.com/vi/ewJFsDzD6HM/0.jpg)](https://www.youtube.com/watch?v=ewJFsDzD6HM)
+<video width="640" height="360" controls>
+  <source src="/assets/Somador.mp4" type="mp4">
+</video>
